@@ -1,4 +1,4 @@
-CREATE OR REPLACE PACKAGE pkg_ActionAfter IS
+CREATE OR REPLACE PACKAGE pkg_ActionAfter IS-
     --------------------------------------------------------------------------------
     -- Package      : pkg_ActionAfter
     -- Application  : Scottish Power
