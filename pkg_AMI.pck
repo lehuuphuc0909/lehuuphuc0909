@@ -1,5 +1,6 @@
 CREATE OR REPLACE PACKAGE pkg_AMI IS
     -------------------------------------------------------------------------------------------------
+	--JIR002
     -- Readings processing for Interval Meters
     -- #usage Readings processing for Interval Meters
     -- #author ZJKN01
